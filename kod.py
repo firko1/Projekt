@@ -1,2 +1,2 @@
-print ('Firo')
+print ('Firo najlepszy jest')
 print
