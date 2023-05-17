@@ -1,1 +1,1 @@
-print ('Firo')
+print ('Firo nie jest najlepszy')
