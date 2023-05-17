@@ -1,1 +1,1 @@
-print ('Firo , 1')
+print ('Firo')
